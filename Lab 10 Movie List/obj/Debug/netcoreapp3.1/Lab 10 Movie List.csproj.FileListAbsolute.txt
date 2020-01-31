@@ -1,0 +1,11 @@
+C:\Users\nayan\source\repos\Lab 10 Movie List\Lab 10 Movie List\obj\Debug\netcoreapp3.1\Lab 10 Movie List.csprojAssemblyReference.cache
+C:\Users\nayan\source\repos\Lab 10 Movie List\Lab 10 Movie List\obj\Debug\netcoreapp3.1\Lab 10 Movie List.AssemblyInfoInputs.cache
+C:\Users\nayan\source\repos\Lab 10 Movie List\Lab 10 Movie List\obj\Debug\netcoreapp3.1\Lab 10 Movie List.AssemblyInfo.cs
+C:\Users\nayan\source\repos\Lab 10 Movie List\Lab 10 Movie List\bin\Debug\netcoreapp3.1\Lab 10 Movie List.exe
+C:\Users\nayan\source\repos\Lab 10 Movie List\Lab 10 Movie List\bin\Debug\netcoreapp3.1\Lab 10 Movie List.deps.json
+C:\Users\nayan\source\repos\Lab 10 Movie List\Lab 10 Movie List\bin\Debug\netcoreapp3.1\Lab 10 Movie List.runtimeconfig.json
+C:\Users\nayan\source\repos\Lab 10 Movie List\Lab 10 Movie List\bin\Debug\netcoreapp3.1\Lab 10 Movie List.runtimeconfig.dev.json
+C:\Users\nayan\source\repos\Lab 10 Movie List\Lab 10 Movie List\bin\Debug\netcoreapp3.1\Lab 10 Movie List.dll
+C:\Users\nayan\source\repos\Lab 10 Movie List\Lab 10 Movie List\bin\Debug\netcoreapp3.1\Lab 10 Movie List.pdb
+C:\Users\nayan\source\repos\Lab 10 Movie List\Lab 10 Movie List\obj\Debug\netcoreapp3.1\Lab 10 Movie List.dll
+C:\Users\nayan\source\repos\Lab 10 Movie List\Lab 10 Movie List\obj\Debug\netcoreapp3.1\Lab 10 Movie List.pdb
